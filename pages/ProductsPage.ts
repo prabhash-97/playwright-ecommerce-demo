@@ -5,6 +5,7 @@ export class ProductsPage {
 
   readonly title = this.page.getByText('Products', { exact: true });
   readonly cartLink = this.page.locator('.shopping_cart_link');
+  readonly sortDropdown = this.page.locator('.product_sort_container');
 
   product(name: string) {
     return this.page.locator('.inventory_item').filter({ hasText: name });
