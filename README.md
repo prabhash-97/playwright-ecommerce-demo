@@ -117,10 +117,14 @@ This project demonstrates a maintainable QA automation approach rather than a co
 
 Built an end-to-end QA automation framework using Playwright and TypeScript for a demo e-commerce application. Covered authentication, product browsing, cart, sorting, checkout, validation, responsive testing, and cross-browser execution. Implemented Page Object Model, reusable test data, smoke/regression tagging, screenshots, video, traces, and HTML reporting.
 
-## HTML Test Report Samplegi
+## HTML Test Report Sample
+
 <img width="2024" height="1826" alt="image" src="https://github.com/user-attachments/assets/77929868-e2d9-40e2-be56-993f3233252c" />
 
+
+
 **Failed Test Cases : Errors, Test Steps, Screenshots, Traces, Videos, Attachments** 
+
 <img width="1017" height="772" alt="Screenshot 2026-09-21 at 16 01 31" src="https://github.com/user-attachments/assets/55c9675d-f714-4483-b6a7-2dda966c4447" />
 <img width="1017" height="876" alt="Screenshot 2026-09-21 at 16 01 55" src="https://github.com/user-attachments/assets/1e0dd0e8-da09-470c-a1c3-32cf7cbcf75f" />
 
